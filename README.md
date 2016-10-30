@@ -1,5 +1,5 @@
 ## bart-parking
-Automated downloading of BART parking permits.
+Automated downloading of [BART](https://www.bart.gov/) parking permits.
 
 ### Requirements
 
@@ -7,8 +7,8 @@ Automated downloading of BART parking permits.
 
 ### Background
 
-Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits (DPP).
-You will often end up having to download multiple PDF files for the DPPs and print them to put on the dashboard.
+Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits (DPP) for BART commutes.
+You will often end up having to download multiple PDF files for the DPPs and print them to put on the vehicle's dashboard.
 The BART reservation website offers no easy way to download all of them in one click (see the screenshot).
 
 ![BART Screenshot](BART.jpg?raw=true "Screenshot")
@@ -18,7 +18,7 @@ But it is really painful to download every ... single ... PDF ... permit and pri
 
 ### How to run
 
-Run the `main.py` script and input username and password as shown below.
+Run the `main.py` script and input your username and password, as shown below.
 
 ```
 C:\Github\bart-parking\bart>python main.py
