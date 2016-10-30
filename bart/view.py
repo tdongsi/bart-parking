@@ -5,7 +5,7 @@ import bart
 import mylog
 
 # create logger
-logger = logging.getLogger("bart-parking")
+logger = logging.getLogger("bart-view")
 
 
 def main():
@@ -14,7 +14,7 @@ def main():
     password = getpass.getpass()
     logger.info("Done reading username and password")
 
-    bart.get_permit(user, password)
+    bart.get_permits(user, password)
     pass
 
 
