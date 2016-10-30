@@ -1,5 +1,5 @@
 ## bart-parking
-Automate downloading BART parking permits.
+Automated downloading of BART parking permits.
 
 ### Requirements
 
@@ -9,12 +9,12 @@ Automate downloading BART parking permits.
 
 Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits (DPP).
 You will often end up having to download multiple PDF files for the DPPs and print them to put on the dashboard.
-The BART website offers no easy way to do so (see the screenshot).
+The BART reservation website offers no easy way to download all of them in one click (see the screenshot).
 
-{% img center BART.jpg %}
+![BART Screenshot](BART.jpg?raw=true "Screenshot")
 
-The BART commute itself is not that bad, especially when you usually find a seat. 
-But it is painful to download every ... single ... PDF ... permit and print it.
+Personally, the BART commute itself is not that bad, especially when I usually find a seat. 
+But it is really painful to download every ... single ... PDF ... permit and print it.
 
 ### How to run
 
