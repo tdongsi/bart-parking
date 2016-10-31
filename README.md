@@ -1,20 +1,20 @@
 ## bart-parking
-Automated downloading of [BART](https://www.bart.gov/) parking permits.
+Automated downloading [BART](https://www.bart.gov/) parking permits.
 
 ### Requirements
 
-* Install `requests` [package](http://docs.python-requests.org/en/master/user/install). Usually, it is `pip install requests`.
+* Install `requests` [package](http://docs.python-requests.org/en/master/user/install). Usually, it is simply `pip install requests`.
 
 ### Background
 
-Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits (DPP) for BART commutes.
-You will often end up having to download multiple PDF files for the DPPs and print them to put on the vehicle's dashboard.
-The BART reservation website offers no easy way to download all of them in one click (see the screenshot).
+Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits for BART commutes.
+You will often end up having to download multiple PDF files for the daily permits and print them to put on your vehicle's dashboard.
+The [BART reservation website](https://www.select-a-spot.com/bart/) offers no easy way to download all of them in one click (see the screenshot).
 
 ![BART Screenshot](BART.jpg?raw=true "Screenshot")
 
 Personally, the BART commute itself is not that bad, especially when I usually find a seat. 
-But it is really painful to download every ... single ... PDF ... permit and print it.
+But it is really painful to download every ... single ... PDF ... permit manually before printing them.
 
 ### How to run
 
