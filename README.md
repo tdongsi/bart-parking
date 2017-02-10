@@ -7,9 +7,10 @@ Automated downloading [BART](https://www.bart.gov/) parking permits.
 
 ### Background
 
-Before having the Monthly Parking Permit, you usually have no choice but Daily Parking Permits for BART commutes.
-You will often end up having to download multiple PDF files for the daily permits and print them to put on your vehicle's dashboard.
-The [BART reservation website](https://www.select-a-spot.com/bart/) offers no easy way to download all of them in one click (see the screenshot).
+Before having the Monthly Parking Permit, we usually have no choice but Daily Parking Permits for BART commutes.
+We will often end up having to download multiple PDF files for the daily permits and print them to put on our vehicle's dashboard.
+The [BART reservation website](https://www.select-a-spot.com/bart/) offers no easy way to download all of PDF files in one click (see the screenshot).
+We will have to click "Print Permit" button one by one, each opens up a dialog to navigate through with quite a few clicks, before we can download the PDF file.
 
 ![BART Screenshot](BART.jpg?raw=true "Screenshot")
 
