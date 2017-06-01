@@ -14,7 +14,7 @@ We will have to click "Print Permit" button one by one, each opens up a dialog t
 
 ![BART Screenshot](BART.jpg?raw=true "Screenshot")
 
-Personally, the BART commute itself is not that bad, especially when I usually find a seat. 
+Personally, the BART commute itself is not that bad. 
 But it is really painful to download every ... single ... PDF ... permit manually before printing them.
 
 ### How to run
