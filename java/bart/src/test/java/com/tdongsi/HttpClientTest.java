@@ -14,7 +14,10 @@ public class HttpClientTest {
 
 	@Test
 	public void test_fluentApi() throws ClientProtocolException, IOException {
-		String see = Request.Get(API_ENDPOINT).execute().returnContent().asString();
+		String see = Request.Get(API_ENDPOINT)
+				.execute()
+				.returnContent()
+				.asString();
 		assertFalse(see.isEmpty());
 		System.out.println(see);
 	}
